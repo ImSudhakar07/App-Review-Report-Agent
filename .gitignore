@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Environment variables (your API keys - NEVER commit this)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (too large for GitHub, and may contain sensitive info)
+data/raw/
+data/processed/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

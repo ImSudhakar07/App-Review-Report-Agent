@@ -1,0 +1,17 @@
+# App store review scraping
+google-play-scraper
+requests                    # For Apple App Store (iTunes API) - we write our own scraper
+
+# LLM client (xAI API is OpenAI-compatible)
+openai
+
+# Data processing and statistics
+pandas
+scipy
+
+# Web dashboard and visualization
+streamlit
+plotly
+
+# Environment variable management
+python-dotenv
